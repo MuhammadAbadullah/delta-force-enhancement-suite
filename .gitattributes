@@ -1,0 +1,8 @@
+# Generated on 2026-11-05
+*.html linguist-vendored
+yarn.lock linguist-generated
+docs/** linguist-vendored
+*.ts linguist-detectable
+*.svg text
+*.sh text eol=lf
+# eof a0a061f8
