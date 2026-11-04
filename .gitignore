@@ -1,0 +1,5 @@
+dist/
+.pnpm-store/
+yarn-error.log*
+build/
+dist/
